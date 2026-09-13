@@ -34,7 +34,18 @@ int main() {
     }else if(lateDay > 10){
         printf("Fine Rs 200");
     }
-    
+
+## Task 3
+#include <stdio.h>
+
+int main() {
+    char name[100];
+    printf("Enter student name: ");
+    fgets(name, sizeof(name), stdin);
+    puts("The student name: ");
+    puts(name);
+    return 0;
+}
     
     
 
