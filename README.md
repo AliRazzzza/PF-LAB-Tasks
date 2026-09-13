@@ -34,6 +34,8 @@ int main() {
     }else if(lateDay > 10){
         printf("Fine Rs 200");
     }
+        return 0;
+}
 
 ## Task 3
 #include <stdio.h>
@@ -47,7 +49,19 @@ int main() {
     return 0;
 }
     
-    
-
+## Task 4
+#include <stdio.h>
+int main(){
+    int lenght, width, area, perimeter;
+    printf("\nEnter lenght: ");
+    scanf("%d", & lenght);
+    printf("\nEnter width: ");
+    scanf("%d", & width);
+    area = lenght * widht;
+    perimeter = 2*(lenght + width);
+    printf("\nArea of the rectangle is %d", area);
+    printf("\nPerimeter of the rectangle is %d", perimeter);
     return 0;
 }
+
+
