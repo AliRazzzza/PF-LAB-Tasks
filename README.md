@@ -9,7 +9,7 @@ In lab 4 the core concepts covered were:
 - Conversion formulas
 - Decimal data types and their format specifiers
 
-## Programming Tasks
+## Programming Tasks - Post Lab
 1. Scholarship Eligibility Checker – Checks scholarship eligibility based on marks or family income.
 2. Library Fine Calculator – Calculates library fines based on the number of overdue days.
 3. Student Name Input – Demonstrates taking and displaying a full name using fgets() and puts().
@@ -18,3 +18,10 @@ In lab 4 the core concepts covered were:
 6. Temperature Converter – Converts Celsius temperature to Fahrenheit.
 7. Average Calculator – Calculates the average of three numbers.
 8. Pass/Fail Checker – Determines whether a student has passed based on their marks.
+
+## Programming Tasks - In Lab
+1. Addition of Two Numbers – Adds two numbers entered by the user and displays the result
+2. Student Percentage Calculator – Calculates a student's percentage from obtained and total marks
+3. Even or Odd Checker – Determines whether a number is even or odd using the modulus operator
+4. Voting Eligibility Checker – Checks whether a person is eligible to vote based on their age
+5. Student Grade Calculator – Assigns a grade based on the student's marks using if-else conditions
