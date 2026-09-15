@@ -8,3 +8,13 @@ In lab 4 the core concepts covered were:
 - Basic arithmetic calculations
 - Conversion formulas
 - Decimal data types and their format specifiers
+
+## Programming Tasks
+1. Scholarship Eligibility Checker – Checks scholarship eligibility based on marks or family income.
+2. Library Fine Calculator – Calculates library fines based on the number of overdue days.
+3. Student Name Input – Demonstrates taking and displaying a full name using fgets() and puts().
+4. Rectangle Calculator – Calculates the area and perimeter of a rectangle.
+5. Square and Cube Calculator – Calculates the square and cube of an integer.
+6. Temperature Converter – Converts Celsius temperature to Fahrenheit.
+7. Average Calculator – Calculates the average of three numbers.
+8. Pass/Fail Checker – Determines whether a student has passed based on their marks.
